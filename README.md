@@ -1,10 +1,11 @@
 # **COLORE**  
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-**cerchio cromatico**
+
 **cerchio cromatico**
 
 * **colori primari**: sono i colori da cui si possono ottenere tutti gli altri es. rosso, giallo blu  
+* **colori primari**: sono i colori da cui si possono ottenere tutti gli altri es. rosso, giallo blu 
 * **colori secondari**: si ottengono mescolando i colori primari. Arancione, Verde e Viola  
 * **colori terziari**: si ottengono mescolando un colore primario con il colore secondario più vicino sul cerchio cromatico  
 * **colori complementari**: sono colori opposti nel cerchio cromatico. Sono complementari un colore con la somma degli altri due colori primari restanti  
