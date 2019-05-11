@@ -1,7 +1,7 @@
 # **COLORE**  
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-
+**cerchio cromatico**
 **cerchio cromatico**
 
 * **colori primari**: sono i colori da cui si possono ottenere tutti gli altri es. rosso, giallo blu  
