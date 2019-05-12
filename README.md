@@ -1,6 +1,14 @@
 # **COLORE**  
 ------------------------------------------------------------------------------------------------------------------------------------------
+**sintesi sottrattiva**:
 
+La sintesi sottrattiva è il sistema di stampa basato su colori CMYK. 
+Combinando i pigmenti dei colori si ottiene il nero 
+
+**CMYK**  
+Ciano, magenta, giallo e nero (key), ovvero i colori che costituiscono il processo di stampa in quadricromia  
+
+![Alt text](https://lh6.googleusercontent.com/-zrWlRv9cJ_8/Up4rpgpBmrI/AAAAAAAADKQ/p7MrH3vkzHA/s1600/Sintesi_Sottrattiva_Colori.png")
 
 **cerchio cromatico**
 
@@ -14,15 +22,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-**sintesi sottrattiva**:
 
-La sintesi sottrattiva è il sistema di stampa basato su colori CMYK. 
-Combinando i pigmenti dei colori si ottiene il nero 
-
-**CMYK**  
-Ciano, magenta, giallo e nero (key), ovvero i colori che costituiscono il processo di stampa in quadricromia  
-
-![Alt text](https://lh6.googleusercontent.com/-zrWlRv9cJ_8/Up4rpgpBmrI/AAAAAAAADKQ/p7MrH3vkzHA/s1600/Sintesi_Sottrattiva_Colori.png")
 
 
 
