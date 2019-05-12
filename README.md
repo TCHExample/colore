@@ -5,6 +5,8 @@
 La sintesi sottrattiva è il sistema di stampa basato su colori CMYK. 
 Combinando i pigmenti dei colori si ottiene il nero 
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
 **CMYK**  
 Ciano, magenta, giallo e nero (key), ovvero i colori che costituiscono il processo di stampa in quadricromia  
 
@@ -15,12 +17,14 @@ Ciano, magenta, giallo e nero (key), ovvero i colori che costituiscono il proces
 * **colori primari**: sono i colori da cui si possono ottenere tutti gli altri es. rosso, giallo blu  
 * **colori secondari**: si ottengono mescolando i colori primari. Arancione, Verde e Viola  
 * **colori terziari**: si ottengono mescolando un colore primario con il colore secondario più vicino sul cerchio cromatico  
-* **colori complementari**: sono colori opposti nel cerchio cromatico. Sono complementari un colore con la somma degli altri due colori primari restanti  
+
 
 ![Alt text](https://www.sofonisba.it/wp-content/uploads/2018/07/teoria-strutturale-del-colore_dico-cromatico_sofonisba.jpg")
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+![Alt text](https://www.sofonisba.it/wp-content/uploads/2018/07/teoria-strutturale-del-colore_dico-cromatico_sofonisba.jpg")
+![Alt text](https://www.sofonisba.it/wp-content/uploads/2018/07/teoria-strutturale-del-colore_dico-cromatico_sofonisba.jpg")
 
 
 
