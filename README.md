@@ -19,7 +19,11 @@ Ciano, magenta, giallo e nero (key), ovvero i colori che costituiscono il proces
 * **colori terziari**: si ottengono mescolando un colore primario con il colore secondario più vicino sul cerchio cromatico  
 
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 ![Alt text](https://www.sofonisba.it/wp-content/uploads/2018/07/teoria-strutturale-del-colore_dico-cromatico_sofonisba.jpg")
+![Alt text](https://lh6.googleusercontent.com/-zrWlRv9cJ_8/Up4rpgpBmrI/AAAAAAAADKQ/p7MrH3vkzHA/s1600/Sintesi_Sottrattiva_Colori.png")
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
